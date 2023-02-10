@@ -1,0 +1,20 @@
+.AddTask {
+  margin-block-start: 1rem;
+  margin-block-end: 0.75rem;
+  font-size: 1.25rem;
+}
+
+.AddTask span,
+.AddTask input {
+  margin-inline-end: 0.75rem;
+}
+
+.AddTask input {
+  width: 300px;
+  max-width: 70%;
+}
+
+.add-btn {
+  font-size: 1.25rem;
+  padding: 2px 8px;
+}
